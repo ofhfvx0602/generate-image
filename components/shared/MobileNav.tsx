@@ -27,8 +27,6 @@ const MobileNav = () => {
         <SignedIn>
           <UserButton afterSignOutUrl="/" />
 
-          <Sheet>
-            <SheetTrigger>
               <Image
                 src="/assets/icons/menu.svg"
                 alt="menu"
@@ -36,8 +34,6 @@ const MobileNav = () => {
                 height={32}
                 className="cursor-pointer"
               />
-            </SheetTrigger>
-            <SheetContent className="sheet-content sm:w-64">
               <>
                 <Image
                   src="/assets/images/logo-text.svg"
@@ -74,8 +70,6 @@ const MobileNav = () => {
                   })}
                 </ul>
               </>
-            </SheetContent>
-          </Sheet>
         </SignedIn>
 
         <SignedOut>
