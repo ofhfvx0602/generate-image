@@ -3,7 +3,7 @@
 ![genera](https://github.com/ofhfvx0602/generate-image/assets/95751619/2f023ba2-c5e8-4655-8bb9-8d8a21e14707)
 
 ## メイン機能
-- 技術スタック: Next.js, Typescript, Stripe, Tailwind, MongoDB, Clerk, Cloudinary, Shadcn
+- 技術スタック: Next.js 14, Typescript, React, Stripe, Tailwind, MongoDB, Clerk, Cloudinary, Shadcn, vercel
 - 新規登録、ログインが可能です。
 - 画像検索できます。
 - 画像を修復することができます。
